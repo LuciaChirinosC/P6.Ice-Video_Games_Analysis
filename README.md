@@ -1,6 +1,6 @@
 # Ice-Video_Games_Analysis-P6
 
-## 🎮 Ice Video Games Analysis – Sprint 6
+## 🎮 Ice Video Games Analysis 
 ### 🧾 Descripción
 
 Proyecto integrado que reúne lo aprendido: análisis de ventas de videojuegos (datos hasta 2016) para identificar patrones de éxito, preparar datos y construir análisis estadísticos y pruebas de hipótesis. Trabajo realizado en Jupyter Notebook.
