@@ -1,4 +1,4 @@
-# Ice-Video_Games_Analysis-P6
+# 📊 Market & Sales Analysis with Python — Video Games Industry
 
 ## 🎮 Ice Video Games Analysis 
 ### 🧾 Descripción
